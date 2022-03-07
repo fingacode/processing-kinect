@@ -11,7 +11,7 @@ https://www.instagram.com/p/B2xHFkoFgR0/
 This code is given as is.
 You may have to tweak the code if you want to use a different controller.
 I was using SPOUT to send video signal to Resolume.
-SPOUT is only works on Windows. You'll need to replace it with Syphon on Mac OS.
+SPOUT only works on Windows. You'll need to replace it with Syphon on Mac OS.
 
 I don't intend on maintaining this repo.
 
