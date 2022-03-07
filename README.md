@@ -1,5 +1,8 @@
 # kinect-visualiser
 
+## Demo
+https://www.instagram.com/p/B2xHFkoFgR0/
+
 ## Equipment
 - 2 x Xbox 360 Kinect ( Model 1414 )
 - 1 x Novation Launchpad S
@@ -12,4 +15,5 @@ SPOUT is only works on Windows. You'll need to replace it with Syphon on Mac OS.
 
 I don't intend on maintaining this repo.
 
-@fingacode
+### Follow Me :)
+https://www.instagram.com/fingacode/
